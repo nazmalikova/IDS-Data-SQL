@@ -5,7 +5,9 @@ Just like citizens go to a bank if they need money to grow economically, countri
 
 Dataset: The dataset belongs to the World Bank and contains information about how much money countries worldwide owing to the Bank. 
 Data source: https://www.kaggle.com/datasets/theworldbank/international-debt-statistics?resource=download
-It has 6 files: ![image](https://user-images.githubusercontent.com/126830389/225712988-445e424c-3af9-4367-b00c-110e574e5c24.png)
+It has 6 files:
+
+![image](https://user-images.githubusercontent.com/126830389/225712988-445e424c-3af9-4367-b00c-110e574e5c24.png)
 
 The main table is DATA, which includes the following columns:
 Country_name: Full name of the country
