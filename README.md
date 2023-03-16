@@ -44,6 +44,7 @@ In order to have only debt indicators need to choose Indicator series Topic - Ec
 
 
 4. Which region has the highest debt, and how much is that?
+
 ![image](https://user-images.githubusercontent.com/126830389/225749907-e3ec916b-89c6-4e9a-8ba6-8e0a66cb72d9.png)
 
 -- 5. What is the total debt by income group, average debt per country?
